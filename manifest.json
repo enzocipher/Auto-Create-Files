@@ -5,7 +5,8 @@
   "minAppVersion": "1.16.0",
   "description": "Crea automáticamente archivos .md a partir de tags en archivos que empiezan con AUTO",
   "author": "Enzo Favio (Doron)",
-  "authorUrl": "",
+  "authorUrl": "https://github.com/enzocipher",
   "isDesktopOnly": false,
   "main": "main.js"
+
 }
