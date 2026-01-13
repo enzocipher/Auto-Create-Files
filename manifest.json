@@ -1,6 +1,6 @@
 {
   "id": "auto-create-files",
-  "name": "Auto Tag Files",
+  "name": "Auto Create Files",
   "version": "1.0.0",
   "minAppVersion": "1.16.0",
   "description": "Crea automáticamente archivos .md a partir de tags en archivos que empiezan con AUTO",
@@ -10,4 +10,5 @@
   "main": "main.js"
 
 }
+
 
