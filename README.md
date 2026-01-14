@@ -1,4 +1,4 @@
-# AUTO Tags - Obsidian Plugin
+# Auto Create Files - Obsidian Plugin
 
 Plugin that allows creating complete file and folder structures in Obsidian using a simple text-based syntax.
 
